@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Math",
+        "author": "Kahsan",
+        "year": "2014",
+        "genre": "mathematicsss",
+        "read": true
+    },
+    {
+        "title": "meri kahna",
+        "author": "wasi",
+        "year": "2028",
+        "genre": "kahan",
+        "read": false
+    },
+    {
+        "title": "Duck Typing",
+        "author": "sir Zia",
+        "year": "2024",
+        "genre": "Education",
+        "read": false
+    }
+]
